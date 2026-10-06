@@ -1,6 +1,6 @@
 # Healthcare Data Analytics Portfolio
 
-I am a healthcare data analyst with more than 20 years of experience working with hospital data, corporate analytics, and HL7 interfaces. This portfolio highlights projects that use SQL, data validation, and Tableau to examine healthcare reimbursement and market questions.
+I am a healthcare data analyst and IT professional with more than 20 years of experience across hospital operations, clinical and financial reporting, claims and utilization analysis, reimbursement, data quality, and HL7 interoperability. I use that healthcare knowledge with SQL and Tableau to frame questions correctly, validate the underlying data, and produce findings that support operational and financial decisions.
 
 ## Portfolio Projects
 
